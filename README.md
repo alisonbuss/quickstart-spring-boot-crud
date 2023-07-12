@@ -48,11 +48,9 @@ Campos do escopo do produto: ***(NÃO IMPLEMENTADO)***
 
 Criterio de aceite:
 
-- Construir a Web-api em Spring Boot 3; ***(PARCIALMENTE IMPLEMENTADO)***
-
-Diferenciais:
-
+- Construir a Web-api em Spring Boot 3; ***(IMPLEMENTADO)***
 - Construir aplicação no padrão Stateless, sem estado. ***(IMPLEMENTADO)***
+- Aplicar documentação de API usando o Swagger. ***(IMPLEMENTADO)***
 - Aplicar padrões de Logger, para observabilidade. ***(IMPLEMENTADO)***
 - Containerizar serviços [Redis, RabbitMQ, PostgreSQL e pgAdmin]. ***(IMPLEMENTADO)***
 - Containerizar aplicação em um Minimal JRE (Java 17). ***(IMPLEMENTADO)***
