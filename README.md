@@ -5,7 +5,7 @@
 
 <h3 align="center">
   <a href="https://start.spring.io/">Gerado no Spring Initializr</a><br/>
-  <img src="https://raw.githubusercontent.com/alisonbuss/quickstart-spring-boot-crud/main/SpringInitializr.png" width="666px" alt="SpringInitializr"/> 
+  <img src="https://raw.githubusercontent.com/alisonbuss/quickstart-spring-boot-crud/main/SpringInitializr.png" alt="SpringInitializr"/> 
 </h3>
 
 ### Documentação de Referência:
