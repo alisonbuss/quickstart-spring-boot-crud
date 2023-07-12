@@ -1,0 +1,14 @@
+{
+  "configurations": [
+    {
+      "type": "java",
+      "name": "Quickstart Spring Boot (Application)",
+      "request": "launch",
+      "cwd": "${workspaceFolder}",
+      "mainClass": "com.project.service.webapi.Application",
+      "projectName": "quickstart-spring-boot-crud",
+      "args": "",
+      "envFile": "${workspaceFolder}/.env"
+    }
+  ]
+}

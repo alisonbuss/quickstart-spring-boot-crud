@@ -1,0 +1,47 @@
+# ---- Base ----
+FROM maven:3.6.3-openjdk-11-slim AS base
+
+# Set default image directory at runtime:
+ARG APP_WORKDIR
+
+# Set default image directory:
+ENV APP_WORKDIR="${APP_WORKDIR:-/home/app}"
+
+# Set the /home/app directory to a (working directory):
+WORKDIR "${APP_WORKDIR}"
+
+
+# ---- Builder ----
+FROM base AS builder
+
+# Copy the pom.xml file from the current directory to the
+# container's current directory:
+COPY pom.xml .
+
+# This command resolves all Java project dependencies:
+RUN mvn --errors --batch-mode dependency:resolve
+
+# Copy project source files to the container's current directory:
+COPY src ./src
+
+# Clean up the target directory where Maven normally
+# builds the project and build dependencies:
+RUN mvn clean --errors --batch-mode package -Dmaven.test.skip=true
+
+
+# ---- Deploy ----
+FROM openjdk:11-jre-slim-buster AS deploy
+
+# Set default image directory at runtime:
+ARG APP_WORKDIR
+
+# Set default image directory:
+ENV APP_WORKDIR="${APP_WORKDIR:-/home/app}"
+
+# Copy the file "/home/app/*.jar" compiled in the build process:
+COPY --from=builder ${APP_WORKDIR}/target/*.jar ./application.jar
+
+# Run the application!!! \O/
+ENTRYPOINT ["java", "-jar", "./application.jar"]
+
+CMD ["-ric", "/EUR="]

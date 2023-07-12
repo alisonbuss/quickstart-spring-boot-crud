@@ -1,0 +1,109 @@
+2023-07-12T03:56:13,294 INFO  com.project.service.webapi.Application - Starting Application using Java 17.0.6 with PID 145148 (/mnt/Documentos/git-repositories/public/quickstart-spring-boot-crud/target/classes started by dev in /mnt/Documentos/git-repositories/public/quickstart-spring-boot-crud)
+2023-07-12T03:56:13,305 DEBUG com.project.service.webapi.Application - Running with Spring Boot v3.1.1, Spring v6.0.10
+2023-07-12T03:56:13,306 INFO  com.project.service.webapi.Application - No active profile set, falling back to 1 default profile: "default"
+2023-07-12T03:56:16,799 TRACE com.project.service.webapi.controller.HelloWorldController - TRACE
+2023-07-12T03:56:16,799 DEBUG com.project.service.webapi.controller.HelloWorldController - DEBUG
+2023-07-12T03:56:16,800 INFO  com.project.service.webapi.controller.HelloWorldController - INFO
+2023-07-12T03:56:16,800 WARN  com.project.service.webapi.controller.HelloWorldController - WARN
+2023-07-12T03:56:16,800 ERROR com.project.service.webapi.controller.HelloWorldController - ERROR
+2023-07-12T03:56:16,800 FATAL com.project.service.webapi.controller.HelloWorldController - FATAL
+2023-07-12T03:56:18,105 INFO  com.project.service.webapi.Application - Started Application in 5.343 seconds (process running for 6.349)
+2023-07-12T03:57:38,048 INFO  com.project.service.webapi.Application - Starting Application using Java 17.0.6 with PID 145735 (/mnt/Documentos/git-repositories/public/quickstart-spring-boot-crud/target/classes started by dev in /mnt/Documentos/git-repositories/public/quickstart-spring-boot-crud)
+2023-07-12T03:57:38,057 DEBUG com.project.service.webapi.Application - Running with Spring Boot v3.1.1, Spring v6.0.10
+2023-07-12T03:57:38,059 INFO  com.project.service.webapi.Application - No active profile set, falling back to 1 default profile: "default"
+2023-07-12T03:57:41,306 TRACE com.project.service.webapi.controller.HelloWorldController - TRACE
+2023-07-12T03:57:41,307 DEBUG com.project.service.webapi.controller.HelloWorldController - DEBUG
+2023-07-12T03:57:41,307 INFO  com.project.service.webapi.controller.HelloWorldController - INFO
+2023-07-12T03:57:41,307 WARN  com.project.service.webapi.controller.HelloWorldController - WARN
+2023-07-12T03:57:41,308 ERROR com.project.service.webapi.controller.HelloWorldController - ERROR
+2023-07-12T03:57:41,308 FATAL com.project.service.webapi.controller.HelloWorldController - FATAL
+2023-07-12T03:57:42,545 INFO  com.project.service.webapi.Application - Started Application in 4.9 seconds (process running for 5.789)
+2023-07-12T04:00:03,460 INFO  com.project.service.webapi.controller.HelloWorldController - INFO - GET /welcome
+2023-07-12T04:01:06,266 INFO  com.project.service.webapi.ApplicationTests - Starting ApplicationTests using Java 17.0.6 with PID 146995 (started by dev in /mnt/Documentos/git-repositories/public/quickstart-spring-boot-crud)
+2023-07-12T04:01:06,279 DEBUG com.project.service.webapi.ApplicationTests - Running with Spring Boot v3.1.1, Spring v6.0.10
+2023-07-12T04:01:06,281 INFO  com.project.service.webapi.ApplicationTests - No active profile set, falling back to 1 default profile: "default"
+2023-07-12T04:01:10,262 TRACE com.project.service.webapi.controller.HelloWorldController - TRACE
+2023-07-12T04:01:10,262 DEBUG com.project.service.webapi.controller.HelloWorldController - DEBUG
+2023-07-12T04:01:10,263 INFO  com.project.service.webapi.controller.HelloWorldController - INFO
+2023-07-12T04:01:10,263 WARN  com.project.service.webapi.controller.HelloWorldController - WARN
+2023-07-12T04:01:10,264 ERROR com.project.service.webapi.controller.HelloWorldController - ERROR
+2023-07-12T04:01:10,264 FATAL com.project.service.webapi.controller.HelloWorldController - FATAL
+2023-07-12T04:01:12,082 INFO  com.project.service.webapi.ApplicationTests - Started ApplicationTests in 6.23 seconds (process running for 8.158)
+2023-07-12T04:01:13,109 INFO  com.project.service.webapi.Application - Starting Application using Java 17.0.6 with PID 146995 (started by dev in /mnt/Documentos/git-repositories/public/quickstart-spring-boot-crud)
+2023-07-12T04:01:13,110 DEBUG com.project.service.webapi.Application - Running with Spring Boot v3.1.1, Spring v6.0.10
+2023-07-12T04:01:13,111 INFO  com.project.service.webapi.Application - No active profile set, falling back to 1 default profile: "default"
+2023-07-12T04:01:14,219 TRACE com.project.service.webapi.controller.HelloWorldController - TRACE
+2023-07-12T04:01:14,219 DEBUG com.project.service.webapi.controller.HelloWorldController - DEBUG
+2023-07-12T04:01:14,220 INFO  com.project.service.webapi.controller.HelloWorldController - INFO
+2023-07-12T04:01:14,220 WARN  com.project.service.webapi.controller.HelloWorldController - WARN
+2023-07-12T04:01:14,221 ERROR com.project.service.webapi.controller.HelloWorldController - ERROR
+2023-07-12T04:01:14,221 FATAL com.project.service.webapi.controller.HelloWorldController - FATAL
+2023-07-12T04:01:14,619 INFO  com.project.service.webapi.Application - Started Application in 1.57 seconds (process running for 10.695)
+2023-07-12T04:01:14,766 INFO  com.project.service.webapi.controller.HelloWorldControllerTests - Starting HelloWorldControllerTests using Java 17.0.6 with PID 146995 (started by dev in /mnt/Documentos/git-repositories/public/quickstart-spring-boot-crud)
+2023-07-12T04:01:14,767 DEBUG com.project.service.webapi.controller.HelloWorldControllerTests - Running with Spring Boot v3.1.1, Spring v6.0.10
+2023-07-12T04:01:14,767 INFO  com.project.service.webapi.controller.HelloWorldControllerTests - No active profile set, falling back to 1 default profile: "default"
+2023-07-12T04:01:15,308 TRACE com.project.service.webapi.controller.HelloWorldController - TRACE
+2023-07-12T04:01:15,308 DEBUG com.project.service.webapi.controller.HelloWorldController - DEBUG
+2023-07-12T04:01:15,309 INFO  com.project.service.webapi.controller.HelloWorldController - INFO
+2023-07-12T04:01:15,309 WARN  com.project.service.webapi.controller.HelloWorldController - WARN
+2023-07-12T04:01:15,309 ERROR com.project.service.webapi.controller.HelloWorldController - ERROR
+2023-07-12T04:01:15,310 FATAL com.project.service.webapi.controller.HelloWorldController - FATAL
+2023-07-12T04:01:15,649 INFO  com.project.service.webapi.controller.HelloWorldControllerTests - Started HelloWorldControllerTests in 0.967 seconds (process running for 11.724)
+2023-07-12T04:01:15,791 INFO  com.project.service.webapi.controller.HelloWorldController - INFO - GET /welcome{message}
+2023-07-12T04:01:16,186 ERROR com.project.service.webapi.controller.HelloWorldController - ERROR - GET /welcome-error
+2023-07-12T04:01:16,206 INFO  com.project.service.webapi.controller.HelloWorldController - INFO - GET /welcome
+2023-07-12T04:01:16,224 WARN  com.project.service.webapi.controller.HelloWorldController - WARN - GET /welcome-notfound
+2023-07-12T04:08:32,244 INFO  com.project.service.webapi.Application - Starting Application using Java 17.0.6 with PID 149961 (/mnt/Documentos/git-repositories/public/quickstart-spring-boot-crud/target/classes started by dev in /mnt/Documentos/git-repositories/public/quickstart-spring-boot-crud)
+2023-07-12T04:08:32,276 DEBUG com.project.service.webapi.Application - Running with Spring Boot v3.1.1, Spring v6.0.10
+2023-07-12T04:08:32,283 INFO  com.project.service.webapi.Application - No active profile set, falling back to 1 default profile: "default"
+2023-07-12T04:08:37,835 TRACE com.project.service.webapi.controller.HelloWorldController - TRACE
+2023-07-12T04:08:37,836 DEBUG com.project.service.webapi.controller.HelloWorldController - DEBUG
+2023-07-12T04:08:37,837 INFO  com.project.service.webapi.controller.HelloWorldController - INFO
+2023-07-12T04:08:37,837 WARN  com.project.service.webapi.controller.HelloWorldController - WARN
+2023-07-12T04:08:37,838 ERROR com.project.service.webapi.controller.HelloWorldController - ERROR
+2023-07-12T04:08:37,839 FATAL com.project.service.webapi.controller.HelloWorldController - FATAL
+2023-07-12T04:08:40,035 INFO  com.project.service.webapi.Application - Started Application in 8.5 seconds (process running for 10.376)
+2023-07-12T04:10:01,369 INFO  com.project.service.webapi.Application - Starting Application using Java 17.0.6 with PID 150969 (/mnt/Documentos/git-repositories/public/quickstart-spring-boot-crud/target/classes started by dev in /mnt/Documentos/git-repositories/public/quickstart-spring-boot-crud)
+2023-07-12T04:10:01,385 DEBUG com.project.service.webapi.Application - Running with Spring Boot v3.1.1, Spring v6.0.10
+2023-07-12T04:10:01,397 INFO  com.project.service.webapi.Application - No active profile set, falling back to 1 default profile: "default"
+2023-07-12T04:10:05,956 TRACE com.project.service.webapi.controller.HelloWorldController - TRACE
+2023-07-12T04:10:05,956 DEBUG com.project.service.webapi.controller.HelloWorldController - DEBUG
+2023-07-12T04:10:05,957 INFO  com.project.service.webapi.controller.HelloWorldController - INFO
+2023-07-12T04:10:05,958 WARN  com.project.service.webapi.controller.HelloWorldController - WARN
+2023-07-12T04:10:05,959 ERROR com.project.service.webapi.controller.HelloWorldController - ERROR
+2023-07-12T04:10:05,960 FATAL com.project.service.webapi.controller.HelloWorldController - FATAL
+2023-07-12T04:10:08,546 INFO  com.project.service.webapi.Application - Started Application in 7.741 seconds (process running for 9.175)
+2023-07-12T04:59:32,126 INFO  com.project.service.webapi.ApplicationTests - Starting ApplicationTests using Java 17.0.6 with PID 166603 (started by dev in /mnt/Documentos/git-repositories/public/quickstart-spring-boot-crud)
+2023-07-12T04:59:32,203 DEBUG com.project.service.webapi.ApplicationTests - Running with Spring Boot v3.1.1, Spring v6.0.10
+2023-07-12T04:59:32,205 INFO  com.project.service.webapi.ApplicationTests - No active profile set, falling back to 1 default profile: "default"
+2023-07-12T04:59:36,115 TRACE com.project.service.webapi.controller.HelloWorldController - TRACE
+2023-07-12T04:59:36,115 DEBUG com.project.service.webapi.controller.HelloWorldController - DEBUG
+2023-07-12T04:59:36,116 INFO  com.project.service.webapi.controller.HelloWorldController - INFO
+2023-07-12T04:59:36,116 WARN  com.project.service.webapi.controller.HelloWorldController - WARN
+2023-07-12T04:59:36,116 ERROR com.project.service.webapi.controller.HelloWorldController - ERROR
+2023-07-12T04:59:36,117 FATAL com.project.service.webapi.controller.HelloWorldController - FATAL
+2023-07-12T04:59:37,968 INFO  com.project.service.webapi.ApplicationTests - Started ApplicationTests in 6.279 seconds (process running for 9.162)
+2023-07-12T04:59:38,996 INFO  com.project.service.webapi.Application - Starting Application using Java 17.0.6 with PID 166603 (started by dev in /mnt/Documentos/git-repositories/public/quickstart-spring-boot-crud)
+2023-07-12T04:59:38,997 DEBUG com.project.service.webapi.Application - Running with Spring Boot v3.1.1, Spring v6.0.10
+2023-07-12T04:59:38,997 INFO  com.project.service.webapi.Application - No active profile set, falling back to 1 default profile: "default"
+2023-07-12T04:59:40,049 TRACE com.project.service.webapi.controller.HelloWorldController - TRACE
+2023-07-12T04:59:40,050 DEBUG com.project.service.webapi.controller.HelloWorldController - DEBUG
+2023-07-12T04:59:40,050 INFO  com.project.service.webapi.controller.HelloWorldController - INFO
+2023-07-12T04:59:40,051 WARN  com.project.service.webapi.controller.HelloWorldController - WARN
+2023-07-12T04:59:40,051 ERROR com.project.service.webapi.controller.HelloWorldController - ERROR
+2023-07-12T04:59:40,052 FATAL com.project.service.webapi.controller.HelloWorldController - FATAL
+2023-07-12T04:59:40,471 INFO  com.project.service.webapi.Application - Started Application in 1.537 seconds (process running for 11.665)
+2023-07-12T04:59:40,585 INFO  com.project.service.webapi.controller.HelloWorldControllerTests - Starting HelloWorldControllerTests using Java 17.0.6 with PID 166603 (started by dev in /mnt/Documentos/git-repositories/public/quickstart-spring-boot-crud)
+2023-07-12T04:59:40,586 DEBUG com.project.service.webapi.controller.HelloWorldControllerTests - Running with Spring Boot v3.1.1, Spring v6.0.10
+2023-07-12T04:59:40,588 INFO  com.project.service.webapi.controller.HelloWorldControllerTests - No active profile set, falling back to 1 default profile: "default"
+2023-07-12T04:59:41,153 TRACE com.project.service.webapi.controller.HelloWorldController - TRACE
+2023-07-12T04:59:41,153 DEBUG com.project.service.webapi.controller.HelloWorldController - DEBUG
+2023-07-12T04:59:41,153 INFO  com.project.service.webapi.controller.HelloWorldController - INFO
+2023-07-12T04:59:41,153 WARN  com.project.service.webapi.controller.HelloWorldController - WARN
+2023-07-12T04:59:41,154 ERROR com.project.service.webapi.controller.HelloWorldController - ERROR
+2023-07-12T04:59:41,154 FATAL com.project.service.webapi.controller.HelloWorldController - FATAL
+2023-07-12T04:59:41,554 INFO  com.project.service.webapi.controller.HelloWorldControllerTests - Started HelloWorldControllerTests in 1.018 seconds (process running for 12.747)
+2023-07-12T04:59:41,710 INFO  com.project.service.webapi.controller.HelloWorldController - INFO - GET /welcome{message}
+2023-07-12T04:59:41,932 ERROR com.project.service.webapi.controller.HelloWorldController - ERROR - GET /welcome-error
+2023-07-12T04:59:41,943 INFO  com.project.service.webapi.controller.HelloWorldController - INFO - GET /welcome
+2023-07-12T04:59:41,952 WARN  com.project.service.webapi.controller.HelloWorldController - WARN - GET /welcome-notfound
