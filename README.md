@@ -3,10 +3,10 @@
 
 #### Status do Projeto: *(Desenvolvimento)*.
 
-<h2 align="center">
+<h3 align="center">
   <a href="https://start.spring.io/">Gerado no Spring Initializr</a><br/>
-  <img src="https://github.com/alisonbuss/quickstart-spring-boot-crud/raw/master/SpringInitializr.png" width="666px" alt="SpringInitializr"/> 
-</h2>
+  <img src="https://raw.githubusercontent.com/alisonbuss/quickstart-spring-boot-crud/main/SpringInitializr.png" width="666px" alt="SpringInitializr"/> 
+</h3>
 
 ### Documentação de Referência:
 Para referência adicional, considere as seguintes seções::
@@ -307,7 +307,9 @@ $ docker stop $(docker ps -a -q) && docker rm $(docker ps -a -q) && docker rmi $
 
 
 
+https://www.digitalocean.com/community/tutorials/maven-commands-options-cheat-sheet
 
+https://jenkov.com/tutorials/maven/maven-commands.html
 
 The following command takes your compiled code and packages it into a distributable format, like a JAR:
 
